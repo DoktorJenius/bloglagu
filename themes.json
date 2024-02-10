@@ -1,0 +1,1039 @@
+{
+    "comment": "Theme sets for EmulationStation Desktop Edition (ES-DE)",
+    "website": "https://es-de.org/",
+    "latestStableRelease": "32",
+    "themeSets": [
+        {
+            "name": "Alekfull NX (Revisited)",
+            "reponame": "alekfull-nx-es-de",
+            "url": "https://github.com/anthonycaccese/alekfull-nx-es-de.git",
+            "author": "antfortytwo and fagnerpc",
+            "newEntry": false,
+            "colorSchemes": [
+                "Dark",
+                "Light"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10"
+            ],
+            "screenshots": [
+                {
+                    "image": "screenshots/alekfull-nx-es-de/alekfull-nx-es-de_01.jpg",
+                    "caption": "System view, Dark color scheme"
+                },
+                {
+                    "image": "screenshots/alekfull-nx-es-de/alekfull-nx-es-de_02.jpg",
+                    "caption": "Gamelist view, Dark color scheme"
+                },
+                {
+                    "image": "screenshots/alekfull-nx-es-de/alekfull-nx-es-de_03.jpg",
+                    "caption": "System view, Light color scheme"
+                },
+                {
+                    "image": "screenshots/alekfull-nx-es-de/alekfull-nx-es-de_04.jpg",
+                    "caption": "Gamelist view, Light color scheme"
+                }
+            ]
+        },
+        {
+            "name": "Art Book Next",
+            "reponame": "art-book-next-es-de",
+            "url": "https://github.com/anthonycaccese/art-book-next-es-de.git",
+            "author": "antfortytwo",
+            "newEntry": false,
+            "variants": [
+                "List",
+                "List (Immersive)",
+                "List (No Metadata)",
+                "Carousel",
+                "Carousel (Immersive)",
+                "Carousel (No Metadata)"
+            ],
+            "colorSchemes": [
+                "Art Book Next",
+                "Art Book",
+                "Steam OS",
+                "SNES",
+                "Famicom",
+                "Black",
+                "Grayscale"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "4:3"
+            ],
+            "screenshots": [
+                {
+                    "image": "screenshots/art-book-next-es-de/art-book-next-es-de_01.jpg",
+                    "caption": "System view, Art Book Next color scheme"
+                },
+                {
+                    "image": "screenshots/art-book-next-es-de/art-book-next-es-de_02.jpg",
+                    "caption": "Gamelist view, List variant, Art Book Next color scheme"
+                },
+                {
+                    "image": "screenshots/art-book-next-es-de/art-book-next-es-de_03.jpg",
+                    "caption": "Gamelist view, List (No Metadata) variant, Steam OS color scheme"
+                },
+                {
+                    "image": "screenshots/art-book-next-es-de/art-book-next-es-de_04.jpg",
+                    "caption": "Gamelist view, Carousel variant, Steam OS color scheme"
+                },
+                {
+                    "image": "screenshots/art-book-next-es-de/art-book-next-es-de_05.jpg",
+                    "caption": "Gamelist view, Carousel (No Metadata) variant, Famicom color scheme"
+                }
+            ]
+        },
+        {
+            "name": "Atari 50 Menu",
+            "reponame": "atari-50-menu-es-de",
+            "url": "https://github.com/anthonycaccese/atari-50-menu-es-de.git",
+            "author": "antfortytwo",
+            "newEntry": false,
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "4:3"
+            ],
+            "screenshots": [
+                {
+                    "image": "screenshots/atari-50-menu-es-de/atari-50-menu-es-de_01.jpg",
+                    "caption": "System view"
+                },
+                {
+                    "image": "screenshots/atari-50-menu-es-de/atari-50-menu-es-de_02.jpg",
+                    "caption": "Gamelist view"
+                }
+            ]
+        },
+        {
+            "name": "CarAlt",
+            "reponame": "caralt-es-de",
+            "url": "https://github.com/Weestuarty/caralt-es-de.git",
+            "author": "Weestuarty",
+            "newEntry": false,
+            "variants": [
+                "With videos",
+                "Without videos"
+            ],
+            "colorSchemes": [
+                "Gold",
+                "Black & white",
+                "Blue",
+                "Gameboy",
+                "Gameboy Shell",
+                "Retro",
+                "Stay Classy",
+                "Commodore 64",
+                "Chilled",
+                "Purple Rain",
+                "Rusty",
+                "Sega"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "4:3",
+                "21:9"
+            ],
+            "transitions": [
+                "Instant w/Fade",
+                "Instant"
+            ],
+            "screenshots": [
+                {
+                    "image": "screenshots/caralt-es-de/caralt-es-de_01.jpg",
+                    "caption": "System view, Chilled color scheme"
+                },
+                {
+                    "image": "screenshots/caralt-es-de/caralt-es-de_02.jpg",
+                    "caption": "Gamelist view, With videos variant, Chilled color scheme"
+                },
+                {
+                    "image": "screenshots/caralt-es-de/caralt-es-de_03.jpg",
+                    "caption": "System view, Retro color scheme"
+                },
+                {
+                    "image": "screenshots/caralt-es-de/caralt-es-de_04.jpg",
+                    "caption": "Gamelist view, Without videos variant, Retro color scheme"
+                },
+                {
+                    "image": "screenshots/caralt-es-de/caralt-es-de_05.jpg",
+                    "caption": "System view, Purple Rain color scheme"
+                },
+                {
+                    "image": "screenshots/caralt-es-de/caralt-es-de_06.jpg",
+                    "caption": "Gamelist view, With videos variant, Purple Rain color scheme"
+                }
+            ]
+        },
+        {
+            "name": "Chicuelo (Revisited)",
+            "reponame": "chicuelo-revisited-es-de",
+            "url": "https://github.com/anthonycaccese/chicuelo-revisited-es-de.git",
+            "author": "antfortytwo and Chicuelo",
+            "newEntry": false,
+            "variants": [
+                "Artwork: Screenshots",
+                "Artwork: Video",
+                "Artwork: Chicuelo"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10"
+            ],
+            "screenshots": [
+                {
+                    "image": "screenshots/chicuelo-revisited-es-de/chicuelo-revisited-es-de_01.jpg",
+                    "caption": "System view, Artwork: Chicuelo variant"
+                },
+                {
+                    "image": "screenshots/chicuelo-revisited-es-de/chicuelo-revisited-es-de_02.jpg",
+                    "caption": "System view, Artwork: Screenshots variant"
+                },
+                {
+                    "image": "screenshots/chicuelo-revisited-es-de/chicuelo-revisited-es-de_03.jpg",
+                    "caption": "Gamelist view"
+                }
+            ]
+        },
+        {
+            "name": "CodyWheel",
+            "reponame": "codywheel-es-de",
+            "url": "https://github.com/Weestuarty/codywheel-es-de.git",
+            "author": "Weestuarty",
+            "newEntry": false,
+            "variants": [
+                "Text Gamelist",
+                "Carousel Gamelist",
+                "Grid Gamelist"
+            ],
+            "colorSchemes": [
+                "Black n White",
+                "Gold",
+                "Blue",
+                "Gameboy",
+                "Hitman",
+                "Retro",
+                "Stay Classy",
+                "Black n Blue",
+                "Chilled",
+                "Purple Rain",
+                "Rusty",
+                "Sega"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "4:3",
+                "21:9"
+            ],
+            "transitions": [
+                "Instant w/Fade",
+                "Instant"
+            ],
+            "screenshots": [
+                {
+                    "image": "screenshots/codywheel-es-de/codywheel-es-de_01.jpg",
+                    "caption": "System view, Black n White color scheme"
+                },
+                {
+                    "image": "screenshots/codywheel-es-de/codywheel-es-de_02.jpg",
+                    "caption": "Gamelist view, Text Gamelist variant, Black n White color scheme"
+                },
+                {
+                    "image": "screenshots/codywheel-es-de/codywheel-es-de_03.jpg",
+                    "caption": "System view, Blue color scheme"
+                },
+                {
+                    "image": "screenshots/codywheel-es-de/codywheel-es-de_04.jpg",
+                    "caption": "Gamelist view, Carousel Gamelist variant, Blue color scheme"
+                },
+                {
+                    "image": "screenshots/codywheel-es-de/codywheel-es-de_05.jpg",
+                    "caption": "System view, Purple Rain color scheme"
+                },
+                {
+                    "image": "screenshots/codywheel-es-de/codywheel-es-de_06.jpg",
+                    "caption": "Gamelist view, Grid Gamelist variant, Purple Rain color scheme"
+                }
+            ]
+        },
+        {
+            "name": "CoinOPS",
+            "reponame": "coinops-es-de",
+            "url": "https://github.com/TheGrizzMD/coinops-es-de.git",
+            "author": "TheGrizzMD, gjsmsmith, BritneysPAIRS and fagnerpc",
+            "newEntry": false,
+            "variants": [
+                "Default",
+                "No Hue",
+                "Simple",
+                "Simple With Cover Art"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10"
+            ],
+            "screenshots": [
+                {
+                    "image": "screenshots/coinops-es-de/coinops-es-de_01.jpg",
+                    "caption": "System view, Default variant"
+                },
+                {
+                    "image": "screenshots/coinops-es-de/coinops-es-de_02.jpg",
+                    "caption": "Gamelist view, Default variant"
+                },
+                {
+                    "image": "screenshots/coinops-es-de/coinops-es-de_03.jpg",
+                    "caption": "System view, Simple variant"
+                },
+                {
+                    "image": "screenshots/coinops-es-de/coinops-es-de_04.jpg",
+                    "caption": "Gamelist view, Simple variant"
+                }
+            ]
+        },
+        {
+            "name": "Colorful (Revisited)",
+            "reponame": "colorful-revisited-es-de",
+            "url": "https://github.com/anthonycaccese/colorful-revisited-es-de.git",
+            "author": "antfortytwo and viking",
+            "newEntry": false,
+            "colorSchemes": [
+                "Light",
+                "Dark"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10"
+            ],
+            "screenshots": [
+                {
+                    "image": "screenshots/colorful-revisited-es-de/colorful-revisited-es-de_01.jpg",
+                    "caption": "System view, Light color scheme"
+                },
+                {
+                    "image": "screenshots/colorful-revisited-es-de/colorful-revisited-es-de_02.jpg",
+                    "caption": "Gamelist view, Light color scheme"
+                },
+                {
+                    "image": "screenshots/colorful-revisited-es-de/colorful-revisited-es-de_03.jpg",
+                    "caption": "System view, Dark color scheme"
+                },
+                {
+                    "image": "screenshots/colorful-revisited-es-de/colorful-revisited-es-de_04.jpg",
+                    "caption": "Gamelist view, Dark color scheme"
+                }
+            ]
+        },
+        {
+            "name": "Colorful (Simplified)",
+            "reponame": "colorful-simplified-es-de",
+            "url": "https://github.com/anthonycaccese/colorful-simplified-es-de.git",
+            "author": "antfortytwo and viking",
+            "newEntry": false,
+            "screenshots": [
+                {
+                    "image": "screenshots/colorful-simplified-es-de/colorful-simplified-es-de_01.jpg",
+                    "caption": "System view"
+                },
+                {
+                    "image": "screenshots/colorful-simplified-es-de/colorful-simplified-es-de_02.jpg",
+                    "caption": "Gamelist view"
+                }
+            ]
+        },
+        {
+            "name": "Diamond",
+            "reponame": "diamond-es-de",
+            "url": "https://github.com/Weestuarty/diamond-es-de.git",
+            "author": "Weestuarty and GreatFlash",
+            "newEntry": false,
+            "variants": [
+                "Color w/ text alt",
+                "Color w/ text gamelist",
+                "Color w/ grid gamelist",
+                "Solid w/ text alt",
+                "Solid w/ text gamelist",
+                "Solid w/ grid gameslist"
+            ],
+            "colorSchemes": [
+                "Blue dark",
+                "Yellow",
+                "Classy",
+                "Hyrule",
+                "Blue light",
+                "Purple",
+                "Greyscale"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "4:3",
+                "21:9"
+            ],
+            "transitions": [
+                "Slide",
+                "Instant"
+            ],
+            "screenshots": [
+                {
+                    "image": "screenshots/diamond-es-de/diamond-es-de_01.jpg",
+                    "caption": "System view, Color w/ text alt variant, Classy color scheme"
+                },
+                {
+                    "image": "screenshots/diamond-es-de/diamond-es-de_02.jpg",
+                    "caption": "Gamelist view, Color w/ text alt variant, Classy color scheme"
+                },
+                {
+                    "image": "screenshots/diamond-es-de/diamond-es-de_03.jpg",
+                    "caption": "System view, Color w/ text gamelist variant, Blue dark color scheme"
+                },
+                {
+                    "image": "screenshots/diamond-es-de/diamond-es-de_04.jpg",
+                    "caption": "Gamelist view, Color w/ text gamelist variant, Blue dark color scheme"
+                }
+            ]
+        },
+        {
+            "name": "Elegance",
+            "reponame": "elegance-es-de",
+            "url": "https://github.com/Weestuarty/elegance-es-de.git",
+            "author": "Weestuarty",
+            "newEntry": false,
+            "variants": [
+                "Solid with Videos",
+                "Solid no Videos",
+                "Color with Videos",
+                "Color no Videos"
+            ],
+            "colorSchemes": [
+                "Yellow",
+                "Classy",
+                "Hyrule",
+                "White/Blue",
+                "Grey/Blue",
+                "Grey/Purple",
+                "White/Red"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "4:3",
+                "21:9"
+            ],
+            "transitions": [
+                "Instant w/Fade",
+                "Instant"
+            ],
+            "screenshots": [
+                {
+                    "image": "screenshots/elegance-es-de/elegance-es-de_01.jpg",
+                    "caption": "System view, Yellow color scheme"
+                },
+                {
+                    "image": "screenshots/elegance-es-de/elegance-es-de_02.jpg",
+                    "caption": "Gamelist view, Solid with Videos variant, Yellow color scheme"
+                }
+            ]
+        },
+        {
+            "name": "Epic Noir (Next)",
+            "reponame": "epic-noir-next-es-de",
+            "url": "https://github.com/anthonycaccese/epic-noir-next-es-de.git",
+            "author": "antfortytwo and Chicuelo",
+            "newEntry": true,
+            "variants": [
+                "Grid: Marquees",
+                "Grid: Screenshots",
+                "Grid: Physical Media",
+                "Grid: Covers",
+                "Grid: Title Screens"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10"
+            ],
+            "screenshots": [
+                {
+                    "image": "screenshots/epic-noir-next-es-de/epic-noir-next-es-de_01.jpg",
+                    "caption": "System view"
+                },
+                {
+                    "image": "screenshots/epic-noir-next-es-de/epic-noir-next-es-de_02.jpg",
+                    "caption": "Gamelist view, Grid: Marquees variant"
+                },
+                {
+                    "image": "screenshots/epic-noir-next-es-de/epic-noir-next-es-de_03.jpg",
+                    "caption": "Gamelist view, Grid: Physical Media variant"
+                },
+                {
+                    "image": "screenshots/epic-noir-next-es-de/epic-noir-next-es-de_04.jpg",
+                    "caption": "Gamelist view, Grid: Title Screens variant"
+                }
+            ]
+        },
+        {
+            "name": "Epic Noir (Revisited)",
+            "reponame": "epic-noir-revisited-es-de",
+            "url": "https://github.com/anthonycaccese/epic-noir-revisited-es-de.git",
+            "author": "antfortytwo, dragoonDorise, c64-dev and Chicuelo",
+            "newEntry": false,
+            "aspectRatios": [
+                "16:9",
+                "16:10"
+            ],
+            "screenshots": [
+                {
+                    "image": "screenshots/epic-noir-revisited-es-de/epic-noir-revisited-es-de_01.jpg",
+                    "caption": "System view"
+                },
+                {
+                    "image": "screenshots/epic-noir-revisited-es-de/epic-noir-revisited-es-de_02.jpg",
+                    "caption": "Gamelist view"
+                }
+            ]
+        },
+        {
+            "name": "ES-DE-Mini",
+            "reponame": "mini-es-de",
+            "url": "https://github.com/Weestuarty/mini-es-de.git",
+            "author": "Weestuarty",
+            "newEntry": false,
+            "variants": [
+                "Super Nintendo (List)",
+                "UsnesA UsnesA (List)",
+                "Nintendo (List)",
+                "Mega Drive (List)",
+                "Master System (List)",
+                "PlayStation (List)",
+                "Super Nintendo (Grid)",
+                "UsnesA UsnesA (Grid)",
+                "Nintendo (Grid)",
+                "Mega Drive (Grid)",
+                "Master System (Grid)",
+                "PlayStation (Grid)"
+            ],
+            "colorSchemes": [
+                "SNES",
+                "USNESA",
+                "NES",
+                "Famicon",
+                "Sega",
+                "Master System",
+                "Hystoria",
+                "Hystoria ALT",
+                "Limited Edition",
+                "Its a Mario",
+                "Mrs LEphant",
+                "Gold"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "4:3",
+                "21:9"
+            ],
+            "transitions": [
+                "Instant w/Fade",
+                "Instant"
+            ],
+            "screenshots": [
+                {
+                    "image": "screenshots/mini-es-de/mini-es-de_01.jpg",
+                    "caption": "System view, Nintendo (List) variant, NES color scheme"
+                },
+                {
+                    "image": "screenshots/mini-es-de/mini-es-de_02.jpg",
+                    "caption": "Gamelist view, Nintendo (List) variant, NES color scheme"
+                },
+                {
+                    "image": "screenshots/mini-es-de/mini-es-de_03.jpg",
+                    "caption": "System view, PlayStation (List) variant, USNESA color scheme"
+                },
+                {
+                    "image": "screenshots/mini-es-de/mini-es-de_04.jpg",
+                    "caption": "Gamelist view, PlayStation (List) variant, USNESA color scheme"
+                },
+                {
+                    "image": "screenshots/mini-es-de/mini-es-de_05.jpg",
+                    "caption": "System view, Super Nintendo (Grid) variant, SNES color scheme"
+                },
+                {
+                    "image": "screenshots/mini-es-de/mini-es-de_06.jpg",
+                    "caption": "Gamelist view, Super Nintendo (Grid) variant, SNES color scheme"
+                }
+            ]
+        },
+        {
+            "name": "ForAll",
+            "reponame": "forall-es-de",
+            "url": "https://github.com/Weestuarty/forall-es-de.git",
+            "author": "Weestuarty",
+            "newEntry": false,
+            "variants": [
+                "Dyslexia w videos",
+                "Dyslexia w/o videos",
+                "Impaired w videos",
+                "Impaired w/o videos"
+            ],
+            "colorSchemes": [
+                "Mono",
+                "Mono Variant",
+                "IBM",
+                "IBM Variant",
+                "Bang Wong",
+                "Bang Wong Variant",
+                "Paul Tol",
+                "Paul Tol Variant"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "4:3",
+                "21:9"
+            ],
+            "transitions": [
+                "Instant w/Fade",
+                "Instant"
+            ],
+            "screenshots": [
+                {
+                    "image": "screenshots/forall-es-de/forall-es-de_01.jpg",
+                    "caption": "System view, Impaired w videos variant, Bang Wong color scheme"
+                },
+                {
+                    "image": "screenshots/forall-es-de/forall-es-de_02.jpg",
+                    "caption": "Gamelist view, Impaired w videos variant, Bang Wong color scheme"
+                },
+                {
+                    "image": "screenshots/forall-es-de/forall-es-de_03.jpg",
+                    "caption": "System view, Dyslexia w videos variant, Paul Tol Variant color scheme"
+                },
+                {
+                    "image": "screenshots/forall-es-de/forall-es-de_04.jpg",
+                    "caption": "Gamelist view, Dyslexia w videos variant, Paul Tol Variant color scheme"
+                }
+            ]
+        },
+        {
+            "name": "Immersive (Revisited)",
+            "reponame": "immersive-revisited-es-de",
+            "url": "https://github.com/anthonycaccese/immersive-revisited-es-de.git",
+            "author": "antfortytwo",
+            "newEntry": false,
+            "variants": [
+                "Background Screenshot",
+                "Background Video"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "4:3"
+            ],
+            "screenshots": [
+                {
+                    "image": "screenshots/immersive-revisited-es-de/immersive-revisited-es-de_01.jpg",
+                    "caption": "System view"
+                },
+                {
+                    "image": "screenshots/immersive-revisited-es-de/immersive-revisited-es-de_02.jpg",
+                    "caption": "Gamelist view, Background Screenshot variant"
+                },
+                {
+                    "image": "screenshots/immersive-revisited-es-de/immersive-revisited-es-de_03.jpg",
+                    "caption": "Gamelist view, Background Video variant"
+                }
+            ]
+        },
+        {
+            "name": "Mania Menu",
+            "reponame": "mania-menu-es-de",
+            "url": "https://github.com/anthonycaccese/mania-menu-es-de.git",
+            "author": "antfortytwo",
+            "newEntry": false,
+            "variants": [
+                "Video",
+                "Screenshot",
+                "Fanart"
+            ],
+            "colorSchemes": [
+                "Yellow",
+                "Blue",
+                "Purple"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "4:3"
+            ],
+            "screenshots": [
+                {
+                    "image": "screenshots/mania-menu-es-de/mania-menu-es-de_01.jpg",
+                    "caption": "System view, Screenshot variant, Yellow color scheme"
+                },
+                {
+                    "image": "screenshots/mania-menu-es-de/mania-menu-es-de_02.jpg",
+                    "caption": "Gamelist view, Fanart variant, Yellow color scheme"
+                },
+                {
+                    "image": "screenshots/mania-menu-es-de/mania-menu-es-de_03.jpg",
+                    "caption": "Gamelist view, Screenshot variant, Blue color scheme"
+                }
+            ]
+        },
+        {
+            "name": "MiSTer Menu",
+            "reponame": "mister-menu-es-de",
+            "url": "https://github.com/anthonycaccese/mister-menu-es-de.git",
+            "author": "antfortytwo",
+            "newEntry": false,
+            "variants": [
+                "Screenshots Off",
+                "Screenshots On"
+            ],
+            "colorSchemes": [
+                "Crisp Mountain Air",
+                "Test Pattern",
+                "Pocky & Rocky",
+                "Custom"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10"
+            ],
+            "screenshots": [
+                {
+                    "image": "screenshots/mister-menu-es-de/mister-menu-es-de_01.jpg",
+                    "caption": "System view, Crisp Mountain Air color scheme"
+                },
+                {
+                    "image": "screenshots/mister-menu-es-de/mister-menu-es-de_02.jpg",
+                    "caption": "Gamelist view, Screenshots Off variant, Test Pattern color scheme"
+                },
+                {
+                    "image": "screenshots/mister-menu-es-de/mister-menu-es-de_03.jpg",
+                    "caption": "Gamelist view, Screenshots On variant"
+                }
+            ]
+        },
+        {
+            "name": "NSO Menu (Interpreted)",
+            "reponame": "nso-menu-interpreted-es-de",
+            "url": "https://github.com/anthonycaccese/nso-menu-interpreted-es-de.git",
+            "author": "antfortytwo and rog",
+            "newEntry": false,
+            "variants": [
+                "Controllers",
+                "Controllers (Flat Color)",
+                "Logos (B/W)",
+                "Logos (Color)",
+                "Colorful",
+                "Colorful (Flat Color)"
+            ],
+            "colorSchemes": [
+                "Link Avatar",
+                "Zelda Avatar",
+                "Gannon Avatar",
+                "Mario Avatar",
+                "Luigi Avatar",
+                "Peach Avatar",
+                "Yoshi Avatar",
+                "Donkey Kong Avatar",
+                "Bowser Avatar",
+                "Question Block Avatar",
+                "Tom Nook Avatar",
+                "K.K. Slider Avatar",
+                "Isabelle Avatar",
+                "ES-DE Avatar",
+                "Custom Avatar"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10"
+            ],
+            "screenshots": [
+                {
+                    "image": "screenshots/nso-menu-interpreted-es-de/nso-menu-interpreted-es-de_01.jpg",
+                    "caption": "System view, Controllers (Flat Color) variant, Link Avatar color scheme"
+                },
+                {
+                    "image": "screenshots/nso-menu-interpreted-es-de/nso-menu-interpreted-es-de_02.jpg",
+                    "caption": "System view, Colorful variant, Yoshi Avatar color scheme"
+                },
+                {
+                    "image": "screenshots/nso-menu-interpreted-es-de/nso-menu-interpreted-es-de_03.jpg",
+                    "caption": "System view, Logos (B/W) variant, ES-DE Avatar color scheme"
+                },
+                {
+                    "image": "screenshots/nso-menu-interpreted-es-de/nso-menu-interpreted-es-de_04.jpg",
+                    "caption": "Gamelist view, Tom Nook Avatar color scheme (with rectangular box covers)"
+                },
+                {
+                    "image": "screenshots/nso-menu-interpreted-es-de/nso-menu-interpreted-es-de_05.jpg",
+                    "caption": "Gamelist view, Isabelle Avatar color scheme (with square screenshots)"
+                }
+            ]
+        },
+        {
+            "name": "Retrofix (Revisited)",
+            "reponame": "retrofix-revisited-es-de",
+            "url": "https://github.com/anthonycaccese/retrofix-revisited-es-de.git",
+            "author": "antfortytwo and 20GotoTen",
+            "newEntry": false,
+            "variants": [
+                "Immersive",
+                "Simple",
+                "Carousel",
+                "Grid"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10"
+            ],
+            "screenshots": [
+                {
+                    "image": "screenshots/retrofix-revisited-es-de/retrofix-revisited-es-de_01.jpg",
+                    "caption": "System view"
+                },
+                {
+                    "image": "screenshots/retrofix-revisited-es-de/retrofix-revisited-es-de_02.jpg",
+                    "caption": "Gamelist view, Immersive variant"
+                },
+                {
+                    "image": "screenshots/retrofix-revisited-es-de/retrofix-revisited-es-de_03.jpg",
+                    "caption": "Gamelist view, Simple variant"
+                },
+                {
+                    "image": "screenshots/retrofix-revisited-es-de/retrofix-revisited-es-de_04.jpg",
+                    "caption": "Gamelist view, Carousel variant"
+                },
+                {
+                    "image": "screenshots/retrofix-revisited-es-de/retrofix-revisited-es-de_05.jpg",
+                    "caption": "Gamelist view, Grid variant"
+                }
+            ]
+        },
+        {
+            "name": "Showcase",
+            "reponame": "showcase-es-de",
+            "url": "https://github.com/Weestuarty/showcase-es-de.git",
+            "author": "Weestuarty",
+            "newEntry": false,
+            "variants": [
+                "With per system bands",
+                "With static bands"
+            ],
+            "colorSchemes": [
+                "Greyscale",
+                "Red",
+                "Blue",
+                "Olive",
+                "Golden",
+                "Weestuarty"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "4:3",
+                "21:9"
+            ],
+            "screenshots": [
+                {
+                    "image": "screenshots/showcase-es-de/showcase-es-de_01.jpg",
+                    "caption": "System view, With per system bands variant, Greyscale color scheme"
+                },
+                {
+                    "image": "screenshots/showcase-es-de/showcase-es-de_02.jpg",
+                    "caption": "Gamelist view, With per system bands variant, Greyscale color scheme"
+                },
+                {
+                    "image": "screenshots/showcase-es-de/showcase-es-de_03.jpg",
+                    "caption": "System view, With per system bands variant, Blue color scheme"
+                },
+                {
+                    "image": "screenshots/showcase-es-de/showcase-es-de_04.jpg",
+                    "caption": "Gamelist view, With per system bands variant, Blue color scheme"
+                },
+                {
+                    "image": "screenshots/showcase-es-de/showcase-es-de_05.jpg",
+                    "caption": "System view, With per system bands variant, Olive color scheme"
+                },
+                {
+                    "image": "screenshots/showcase-es-de/showcase-es-de_06.jpg",
+                    "caption": "Gamelist view, With per system bands variant, Olive color scheme"
+                }
+            ]
+        },
+        {
+            "name": "SimCar",
+            "reponame": "simcar-es-de",
+            "url": "https://github.com/Weestuarty/simcar-es-de.git",
+            "author": "Weestuarty",
+            "newEntry": false,
+            "variants": [
+                "With videos",
+                "Without videos"
+            ],
+            "colorSchemes": [
+                "Gold",
+                "Black & white",
+                "Blue",
+                "Gameboy",
+                "Gameboy Shell",
+                "Retro",
+                "Stay Classy",
+                "Commodore 64",
+                "Chilled",
+                "Purple Rain",
+                "Rusty",
+                "Sega"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "4:3",
+                "21:9"
+            ],
+            "transitions": [
+                "Instant w/Fade",
+                "Instant"
+            ],
+            "screenshots": [
+                {
+                    "image": "screenshots/simcar-es-de/simcar-es-de_01.jpg",
+                    "caption": "System view, Gold color scheme"
+                },
+                {
+                    "image": "screenshots/simcar-es-de/simcar-es-de_02.jpg",
+                    "caption": "Gamelist view, With videos variant, Gold color scheme"
+                },
+                {
+                    "image": "screenshots/simcar-es-de/simcar-es-de_03.jpg",
+                    "caption": "System view, Commodore 64 color scheme"
+                },
+                {
+                    "image": "screenshots/simcar-es-de/simcar-es-de_04.jpg",
+                    "caption": "Gamelist view, With videos variant, Commodore 64 color scheme"
+                },
+                {
+                    "image": "screenshots/simcar-es-de/simcar-es-de_05.jpg",
+                    "caption": "System view, Sega color scheme"
+                },
+                {
+                    "image": "screenshots/simcar-es-de/simcar-es-de_06.jpg",
+                    "caption": "Gamelist view, Without videos variant, Sega color scheme"
+                }
+            ]
+        },
+        {
+            "name": "TateGriddy",
+            "reponame": "tategriddy-es-de",
+            "url": "https://github.com/Weestuarty/tategriddy-es-de.git",
+            "author": "Weestuarty",
+            "newEntry": false,
+            "variants": [
+                "Grid with videos",
+                "Grid without videos",
+                "Carousel with videos",
+                "Carousel without videos"
+            ],
+            "colorSchemes": [
+                "Greyscale",
+                "Blue",
+                "Gold",
+                "Retro",
+                "Stay Classy",
+                "Chilled",
+                "Purple Rain",
+                "Primary"
+            ],
+            "aspectRatios": [
+                "16:9_vertical",
+                "16:10_vertical",
+                "4:3_vertical"
+            ],
+            "transitions": [
+                "Instant w/Fade",
+                "Instant"
+            ],
+            "screenshots": [
+                {
+                    "image": "screenshots/tategriddy-es-de/tategriddy-es-de_01.jpg",
+                    "caption": "System view, Grid with videos variant, Chilled color scheme"
+                },
+                {
+                    "image": "screenshots/tategriddy-es-de/tategriddy-es-de_02.jpg",
+                    "caption": "Gamelist view, Grid with videos variant, Chilled color scheme"
+                },
+                {
+                    "image": "screenshots/tategriddy-es-de/tategriddy-es-de_03.jpg",
+                    "caption": "System view, Carousel with videos variant, Retro color scheme"
+                },
+                {
+                    "image": "screenshots/tategriddy-es-de/tategriddy-es-de_04.jpg",
+                    "caption": "Gamelist view, Carousel with videos variant, Retro color scheme"
+                }
+            ]
+        },
+        {
+            "name": "TexGriddy",
+            "reponame": "texgriddy-es-de",
+            "url": "https://github.com/Weestuarty/texgriddy-es-de.git",
+            "author": "Weestuarty",
+            "newEntry": false,
+            "variants": [
+                "Grid with videos",
+                "Grid without videos",
+                "Textlist with videos",
+                "Textlist without videos"
+            ],
+            "colorSchemes": [
+                "Greyscale",
+                "Blue",
+                "Gold",
+                "Retro",
+                "Stay Classy",
+                "Chilled",
+                "Purple Rain",
+                "Primary"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "4:3",
+                "21:9"
+            ],
+            "transitions": [
+                "Instant w/Fade",
+                "Instant"
+            ],
+            "screenshots": [
+                {
+                    "image": "screenshots/texgriddy-es-de/texgriddy-es-de_01.jpg",
+                    "caption": "System view, Grid with videos variant, Chilled color scheme"
+                },
+                {
+                    "image": "screenshots/texgriddy-es-de/texgriddy-es-de_02.jpg",
+                    "caption": "Gamelist view, Grid with videos variant, Chilled color scheme"
+                },
+                {
+                    "image": "screenshots/texgriddy-es-de/texgriddy-es-de_03.jpg",
+                    "caption": "Gamelist view, Grid with videos variant, Greyscale color scheme"
+                },
+                {
+                    "image": "screenshots/texgriddy-es-de/texgriddy-es-de_04.jpg",
+                    "caption": "System view, Textlist with videos variant, Retro color scheme"
+                },
+                {
+                    "image": "screenshots/texgriddy-es-de/texgriddy-es-de_05.jpg",
+                    "caption": "Gamelist view, Textlist with videos variant, Retro color scheme"
+                }
+            ]
+        }
+    ]
+}
